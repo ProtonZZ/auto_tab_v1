@@ -7,4 +7,4 @@ bu uygulama eğlence için yapılmıştır herhangi bir olumsuz olay , davranı�
 
 
 
-// iyi eğlenceler  // https://github.com/ProtonZZ/nodejs-ile-sekme-cogaltici
+// iyi eğlenceler  // https://github.com/ProtonZZ/auto_tab_v1
